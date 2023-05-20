@@ -1,10 +1,12 @@
 #include <stdio.h>
-	/* main start code */
+	/**
+	 * main start the code
+	 * puts declares the function to print
+	 * return succesa
+	 */
 	int main(void)
 {
-	/* puts declare function to print */
 	puts("\"Programming is like building a multilingual puzzle");
-	/* return succes */
 	return(0);
 }
 
