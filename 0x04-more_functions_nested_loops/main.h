@@ -1,7 +1,7 @@
-#ifndef _MAIN_H_
-#define _MAIN_H_
+#ifndef MAIN_H
+#define MAIN_H
 /**
- * Header files for all prototypes in 0x04. C - More functions, more nested loops
+ * header file for all prototypes
  */
 int _putchar(char c);
 int _isupper(int c);
