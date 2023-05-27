@@ -21,7 +21,7 @@ int main(void)
 		n /= 2;
 	}
 
-	for (a = 3; a <= sqrt(n); a = a+ 2)
+	for (a = 3; a <= sqrt(n); a = a + 2)
 	{
 		while (n % a == 0)
 		{
