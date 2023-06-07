@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * int _strspn - gets the length of a prefix substring.
+ * _strspn - gets the length of a prefix substring.
  * @s: string to search
  * @accept: target matches
  * Return: number of bytes consecutively matched
